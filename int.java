@@ -12,8 +12,8 @@ class Ideone
 		Scanner sc=new Scanner(System.in);
 		int n;
 		String str;
-		str=sc.next();
-		n=sc.nextInt();
+		str=s.next();
+		n=s.nextInt();
 		for(int i=1;i<=n;i++)
 		{
 			System.out.println(str);
